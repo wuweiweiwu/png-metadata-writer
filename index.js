@@ -6,7 +6,6 @@
  * The Metadata in PNG files: https://dev.exiv2.org/projects/exiv2/wiki/The_Metadata_in_PNG_files
  */
 
-require("./blob.toArrayBuffer");
 let crc32 = require("./crc32");
 
 // Used for fast-ish conversion between uint8s and uint32s/int32s.
