@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "name": "png-metadata-writer",
+  "author": "wei",
+  "description": "library to read and write PNG Metadata",
+  "main": "index.js"
+}
