@@ -4,7 +4,7 @@
   "name": "png-metadata-writer",
   "author": "wei",
   "description": "library to read and write PNG Metadata",
-  "main": "index.js"
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/wuweiweiwu/png-metadata-writer.git"
